@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![CodeFactor](https://www.codefactor.io/repository/github/chaitanyakrishna/subdomain-enum/badge)](https://www.codefactor.io/repository/github/chaitanyakrishna/subdomain-enum)
+
 # Subdomain-Enum
 
 ## Subdomain Enumeration using Securitytrails API
@@ -10,7 +13,7 @@ Register account in [SecurityTrails.com](https://securitytrails.com/)
 
 Activate Account to get the API Key
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 ## Usage
 
