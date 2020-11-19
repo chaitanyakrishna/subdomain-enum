@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 [![CodeFactor](https://www.codefactor.io/repository/github/chaitanyakrishna/subdomain-enum/badge)](https://www.codefactor.io/repository/github/chaitanyakrishna/subdomain-enum)
 
 # Subdomain-Enum
